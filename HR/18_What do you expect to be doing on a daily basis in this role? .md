@@ -1,0 +1,3 @@
+What do you expect to be doing on a daily basis in this role?
+
+	"In this role, I expect to spend most of my time developing and maintaining the front-end of web applications using ReactJS. This includes building reusable components, integrating APIs to ensure seamless data flow, and working on optimizing performance and user experience. I also expect to collaborate closely with designers and backend developers to ensure the UI is aligned with the overall project goals. Additionally, I anticipate participating in code reviews, troubleshooting issues, and continuously improving the user interface based on feedback and requirements."
