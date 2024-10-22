@@ -1,0 +1,15 @@
+- What are closures in JavaScript?
+- What is event loop -
+- what is promise and observable also difference between them
+- what is event emitter
+- performance optimization (cachening  and memoization(febonacci))
+- what is web worker
+- call, apply and bind
+- map and weakmap diferance
+- hoisting in javascript
+- Event Loop
+- Promises: What are promises? How do they differ from callbacks? 
+- callbacks
+- Prototype
+- prototype inheritance
+- genrators

@@ -1,8 +1,8 @@
 first of all Thank you for this opportunity to introduce myself, my name is Vishal Makwana I am a RectJS and React Native developer at bigscal technologies. I have been working with Bigscal since feb 2022 which includes 6 months of training, 
 
-due to my good performace in my training period I was on live projects within 3 months, Since then I have worked on multiple proojects which includes collabrating with clients getting requirements and deliver the tasks within deadline.
+due to my good performance in my training period I was on live projects within 3 months, Since then I have worked on multiple projects which includes collaborating with clients getting requirements and deliver the tasks within deadline.
 
-Talking about my Qualifications I have completed by Bachelor of Computer Applications and Master of Computer Applications from VNSGU. I have also acquired few certifications from differnt platforms like cousrea, Kagle. 
+Talking about my Qualifications I have completed my Bachelor of Computer Applications and Master of Computer Applications from VNSGU. I have also acquired few certifications from different platforms like cousrea, Kagle. 
 
 
 I'm currently working on a project called ShipManager QHSE, which is a ship safety management system aimed at reducing the administrative burden for shipping companies and ensuring compliance with various industry regulations. The software supports better reporting, compliance tracking, and management of safety processes
